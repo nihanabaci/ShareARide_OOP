@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: sar
+Bundle-SymbolicName: sar
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com,
+ com.ride_share,
+ com.ride_share.sar,
+ com.ride_share.sar.accounts,
+ com.ride_share.sar.database,
+ com.ride_share.sar.exception,
+ com.ride_share.sar.report,
+ com.ride_share.sar.rides
